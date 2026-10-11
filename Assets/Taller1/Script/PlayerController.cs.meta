@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e57dabea162f6cb469efc47a81e7cff6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoAleteo: {fileID: 8300000, guid: 3cd267fcb8ecfaa4095592ffa0106beb, type: 3}
+  - sonidoChoque: {fileID: 8300000, guid: d91c507f614c48248b1898cab65585ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
